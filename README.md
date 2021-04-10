@@ -60,3 +60,5 @@ The second theme that we see is a startling one, and that is the low usage of th
 
 One thing is clear though, and that is that with such a sharp difference in population size between the two cities, the successful recruitment of Female users will be key to the success of the bike sharing service in Des Moines. 
 
+## Link to Dashboard.
+[link to dashboard](https://public.tableau.com/profile/elijah.belizor#!/vizhome/FinalStory_16180325285920/FinalStory?publish=yes)
